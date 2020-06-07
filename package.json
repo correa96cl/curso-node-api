@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/correa96cl/curso-node-api/issues"
   },
-  "homepage": "https://github.com/correa96cl/curso-node-api#readme"
+  "homepage": "https://github.com/correa96cl/curso-node-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
